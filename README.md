@@ -20,7 +20,8 @@ $ cd shellscript
 You should see a file called `Shell-Unix-Generic.sublime-syntax`.
 
 2. Then, go to the command palette (<kbd>⌘</kbd><kbd>Shift</kbd><kbd>P</kbd>)
-and search for `Browse Packages`. Open that folder and drop j2sh.sublime-syntax
-inside.
+and search for `Browse Packages`. Open that folder (for me it's `/Library/
+Application Support/Sublime Text 3/Packages/User`) and drop 
+`j2sh.sublime-syntax` inside.
 
 3. You're done!
