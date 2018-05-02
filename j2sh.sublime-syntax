@@ -27,7 +27,7 @@ contexts:
   comment:
     - match: "#}"
       pop: true
-    - match: \b[\x21-\x7E]+\b  # visible ASCII characters
+    - match: \b[\x20-\x7E]+\b  # printable ASCII characters
       scope: comment.block.documentation
 
   expr:
